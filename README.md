@@ -118,7 +118,7 @@ curl http://localhost:8000/api/customers/CUST001
 ## Project Structure
 
 ```
-backend-assessment/
+FLASK-MOCK-SERVER/
 ├── docker-compose.yml
 ├── README.md
 ├── mock-server/
